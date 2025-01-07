@@ -1,2 +1,2 @@
 # Hardware-Projects
-Contains codes to Hardware Projects
+Codes for Hardware Projects
